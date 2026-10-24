@@ -1,4 +1,4 @@
-### Hi, I'm Andrew 👋
+### Hi there 👋
 
 **Infrastructure, DevOps & Cloud Engineer** based in the UK.
 
